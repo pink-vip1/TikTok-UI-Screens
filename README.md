@@ -1,6 +1,3 @@
-# Bài Thi: TikTok UI Clone
-
-Dự án này là bài tập thực hành thiết kế giao diện ứng dụng TikTok sử dụng React Native, Expo, kết hợp Bottom Tab Navigator và Material Top Tab Navigator.
 
 ## 1. Thông tin sinh viên
 - **Họ và tên:** Trần Gia Hồng
