@@ -5,7 +5,7 @@ Dự án này là bài tập thực hành thiết kế giao diện ứng dụng 
 ## 1. Thông tin sinh viên
 - **Họ và tên:** Trần Gia Hồng
 - **MSSV:** 23810310336
-- **Lớp:** [Điền tên lớp của bạn vào đây]
+- **Lớp:** D18CNPM5
 - **Môn học:** Lập trình thiết bị di động
 
 ## 2. Hướng dẫn chạy Project
@@ -33,8 +33,7 @@ npx expo start
 - **Top Tabs Navigator:** Nằm lồng trong tab `Home`, điều hướng vuốt (swipe) mượt mà giữa màn hình `Following` và `For You`.
 
 ## 4. Ảnh chụp màn hình (Screenshots)
-*(Hình ảnh được lưu trong thư mục `/screenshots`)*
 
 | Home (Following) | Home (For You) | Comments |
 |:---:|:---:|:---:|
-| ![Following](./screenshots/following.png) | ![For You](./screenshots/foryou.png) | ![Comments](./screenshots/comments.png) |
+| ![Following](./screenshots/f1.png) | ![For You](./screenshots/f2.png) | ![Comments](./screenshots/cmt.png) |
